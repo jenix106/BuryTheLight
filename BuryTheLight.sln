@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuryTheLight", "BuryTheLight.csproj", "{B1F6ACA2-DCA3-419F-960D-7AE5927DBCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F6ACA2-DCA3-419F-960D-7AE5927DBCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F6ACA2-DCA3-419F-960D-7AE5927DBCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F6ACA2-DCA3-419F-960D-7AE5927DBCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F6ACA2-DCA3-419F-960D-7AE5927DBCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F13A987-15FD-4103-B534-99BB29398FDF}
+	EndGlobalSection
+EndGlobal
